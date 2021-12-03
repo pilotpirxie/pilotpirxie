@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img width="500" src="https://metrics.lecoq.io/pilotpirxie" alt="Github Metrics">
+</p>
