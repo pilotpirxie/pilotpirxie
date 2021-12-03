@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <img width="500" src="https://metrics.lecoq.io/pilotpirxie" alt="Github Metrics">
+  
+  ![Metrics](https://metrics.lecoq.io/pilotpirxie?template=terminal&config.timezone=Europe%2FWarsaw)
 </p>
